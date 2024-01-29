@@ -3,25 +3,26 @@ Customer Analysis is a critical business function that helps companies understan
 
 A Customer Analysis Tableau project typically involves the following steps:
 
-1.Data Collection: Collecting data from various sources such as customer databases, social media, surveys, and other customer touchpoints.
 
-2.Data Cleaning: Cleaning the data by removing duplicates, correcting errors, and filling in missing values.
+  1. Data Collection: Collecting data from various sources such as customer databases, social media, surveys, and other customer touchpoints.
 
-3.Data Preparation: Preparing the data for analysis by transforming, aggregating, and merging data from different sources.
+  2. Data Cleaning: Cleaning the data by removing duplicates, correcting errors, and filling in missing values.
 
-4.Data Visualization: Creating visualizations such as bar charts, pie charts, scatterplots, and heat maps to analyze customer data and identify patterns and trends.
+  3. Data Preparation: Preparing the data for analysis by transforming, aggregating, and merging data from different sources.
 
-5.Insights and Recommendations: Using the insights gained from data analysis to make informed business decisions and develop strategies to improve customer satisfaction, retention, and loyalty.
+  4. Data Visualization: Creating visualizations such as bar charts, pie charts, scatterplots, and heat maps to analyze customer data and identify patterns and trends.
+
+  5. Insights and Recommendations: Using the insights gained from data analysis to make informed business decisions and develop strategies to improve customer satisfaction, retention, and     loyalty.
 
 A Customer Analysis Tableau project can help businesses in several ways, including:
 
-1.Identifying customer segments: Analyzing customer data to identify different segments based on demographics, behavior, and preferences.
+  1. Identifying customer segments: Analyzing customer data to identify different segments based on demographics, behavior, and preferences.
 
-2.Predicting customer behavior: Using predictive analytics to forecast customer behavior and anticipate their needs.
+  2. Predicting customer behavior: Using predictive analytics to forecast customer behavior and anticipate their needs.
 
-3.Improving customer experience: Identifying areas of improvement in customer experience by analyzing customer feedback, complaints, and reviews.
+  3. Improving customer experience: Identifying areas of improvement in customer experience by analyzing customer feedback, complaints, and reviews.
 
-4.Enhancing customer loyalty: Developing strategies to increase customer loyalty and retention by analyzing customer behavior and preferences.
+  4. Enhancing customer loyalty: Developing strategies to increase customer loyalty and retention by analyzing customer behavior and preferences.
 
 Here I did some Visualizations based on :
 
